@@ -32,6 +32,6 @@ This project demonstrates the use of Retrieval-Augmented Generation (RAG) to cre
   - Generating responses by combining retrieved embeddings and a generation model.
 
 ## Results and Performance:
-  **Accuracy:** The project aims to improve the relevance and accuracy of generated responses by leveraging high-quality embeddings and efficient retrieval.
-  **Efficiency:** Utilization of efficient embedding models and Qdrant ensures quick retrieval and generation processes.
-  **Scalability:** The system is designed to handle large datasets and can be scaled as needed.
+  - **Accuracy:** The project aims to improve the relevance and accuracy of generated responses by leveraging high-quality embeddings and efficient retrieval.
+  - **Efficiency:** Utilization of efficient embedding models and Qdrant ensures quick retrieval and generation processes.
+  - **Scalability:** The system is designed to handle large datasets and can be scaled as needed.
