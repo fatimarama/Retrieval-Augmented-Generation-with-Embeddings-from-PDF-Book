@@ -1,5 +1,5 @@
 # Project Description
-This project demonstrates the use of Retrieval-Augmented Generation (RAG) to create a powerful information retrieval system, by using embeddings generated from a PDF book. By combining state-of-the-art models for embedding generation and retrieval, this project aims to enhance the accuracy and relevance of the generated responses.
+This project uses Retrieval-Augmented Generation (RAG) to create a powerful information retrieval system, by using embeddings generated from a PDF book. By combining state-of-the-art models for embedding generation and retrieval, this project aims to enhance the accuracy and relevance of the generated responses.
 
 ## Key Components:
 ### 1. PDF Book Embeddings:
